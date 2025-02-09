@@ -1,0 +1,5 @@
+/home/certezas/seii/SEII-GustavoBrazilino/Semana2/Exercicio04/VID4/obj/Debug/net9.0/VID4.GeneratedMSBuildEditorConfig.editorconfig
+/home/certezas/seii/SEII-GustavoBrazilino/Semana2/Exercicio04/VID4/obj/Debug/net9.0/VID4.AssemblyInfoInputs.cache
+/home/certezas/seii/SEII-GustavoBrazilino/Semana2/Exercicio04/VID4/obj/Debug/net9.0/VID4.AssemblyInfo.cs
+/home/certezas/seii/SEII-GustavoBrazilino/Semana2/Exercicio04/VID4/obj/Debug/net9.0/VID4.csproj.CoreCompileInputs.cache
+/home/certezas/seii/SEII-GustavoBrazilino/Semana2/Exercicio04/VID4/obj/Debug/net9.0/VID4.sourcelink.json
