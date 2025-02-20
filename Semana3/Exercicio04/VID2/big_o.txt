@@ -1,0 +1,9 @@
+Neste vídeo, aprofundamos a notação Big O e a análise da eficiência dos algoritmos. Após revisar os conceitos básicos, exploramos novos exemplos para esclarecer melhor cada tipo de complexidade.
+
+A notação Big O descreve o desempenho de um algoritmo conforme o tamanho da entrada cresce. Foram abordadas três principais complexidades:
+
+    O(1) - Tempo Constante: O tempo de execução não muda com o tamanho da entrada, como ao acessar um elemento de um array.
+    O(n) - Tempo Linear: O tempo de execução cresce proporcionalmente ao tamanho da entrada, como ao percorrer um array com um loop.
+    O(n²) - Tempo Quadrático: O tempo cresce exponencialmente devido a loops aninhados, como ao comparar todos os pares de elementos em um array.
+
+Foram apresentados exemplos de código para ilustrar cada caso, destacando a importância de entender essas complexidades para escrever código eficiente e otimizar algoritmos, algo essencial em entrevistas técnicas.
