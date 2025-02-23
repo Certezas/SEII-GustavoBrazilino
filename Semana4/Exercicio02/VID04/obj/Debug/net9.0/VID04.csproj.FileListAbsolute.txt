@@ -1,0 +1,15 @@
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/bin/Debug/net9.0/VID04
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/bin/Debug/net9.0/VID04.deps.json
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/bin/Debug/net9.0/VID04.runtimeconfig.json
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/bin/Debug/net9.0/VID04.dll
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/bin/Debug/net9.0/VID04.pdb
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.GeneratedMSBuildEditorConfig.editorconfig
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.AssemblyInfoInputs.cache
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.AssemblyInfo.cs
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.csproj.CoreCompileInputs.cache
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.sourcelink.json
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.dll
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/refint/VID04.dll
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.pdb
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/VID04.genruntimeconfig.cache
+/home/certezas/seii/SEII-GustavoBrazilino/Semana4/Exercicio02/VID04/obj/Debug/net9.0/ref/VID04.dll
