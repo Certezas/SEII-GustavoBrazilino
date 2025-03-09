@@ -1,0 +1,9 @@
+1. Limite de bytes em pacotes TCP e UDP:
+
+	TCP: O tamanho máximo de um segmento TCP (MSS) é geralmente 1460 bytes em Ethernet, após descontar cabeçalhos IP e TCP.
+
+        UDP: O limite teórico é 65507 bytes (65,535 - 8 bytes de cabeçalho UDP), mas na prática, é menor devido a limitações de MTU da rede (geralmente 1500 bytes).
+
+2. Transmissão de arquivos grandes:
+
+        Arquivos grandes são divididos em pacotes menores, que são enviados sequencialmente via TCP (para garantir integridade) ou UDP (para velocidade, em aplicações como streaming). No receptor, os pacotes são remontados no arquivo original.

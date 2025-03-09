@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gC2TECvwwac=",
+  "success": true,
+  "projectFilePath": "/home/certezas/seii/SEII-GustavoBrazilino/Semana5/Exercicio02/Exercicio 02.csproj",
+  "expectedPackageFiles": [
+    "/home/certezas/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/certezas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/certezas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
