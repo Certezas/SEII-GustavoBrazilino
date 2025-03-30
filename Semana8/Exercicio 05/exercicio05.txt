@@ -1,0 +1,22 @@
+Design Pattern ou padrão de projeto é uma solução reutilizável para problemas comuns no desenvolvimento de software. São como "modelos" que ajudam a resolver certos problemas de forma eficaz, promovendo boas práticas de codificação e melhorando a estrutura e a manutenção do código. Esse conceito está intimamente ligado à Programação Orientada a Objetos (POO), já que muitos padrões se baseiam nos princípios de encapsulamento, herança e polimorfismo.
+
+A refatoração de código é o processo de revisar e melhorar a estrutura interna de um código sem alterar seu comportamento externo. Durante a refatoração, padrões de design podem ser aplicados para tornar o código mais limpo, flexível e fácil de manter, corrigindo possíveis problemas ou prevenindo o surgimento de problemas futuros. Além disso, padrões de design também podem ser aplicados no desenvolvimento inicial de um sistema, ajudando a definir uma estrutura robusta desde o começo.
+
+A UML (Unified Modeling Language) é uma linguagem de modelagem padrão utilizada para visualizar, especificar, construir e documentar artefatos de um sistema. Ela permite que desenvolvedores planejem a estrutura e o comportamento de um sistema de forma gráfica, usando diagramas.
+
+Existem três grupos principais de padrões de design:
+
+    Padrões Criacionais: focam na criação de objetos, permitindo flexibilidade e controle sobre o processo de instanciamento.
+    Padrões Estruturais: ajudam a organizar e gerenciar relações entre objetos, facilitando a criação de estruturas de software complexas.
+    Padrões Comportamentais: tratam da comunicação e interação entre objetos de forma que o sistema funcione de maneira flexível e escalável.
+
+No vídeo 3, os oito Design Patterns apresentados são:
+
+    Factory Method - Criacional: oferece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objeto que será criado.
+    Builder - Criacional: permite a criação de objetos complexos por meio de passos separados, personalizando a construção do objeto final.
+    Singleton - Criacional: garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a essa instância.
+    Observer - Comportamental: define uma dependência entre objetos, onde um objeto "observa" as mudanças em outro e reage de acordo.
+    Iterator - Comportamental: permite acessar elementos de uma coleção de forma sequencial sem expor sua estrutura interna.
+    Strategy - Comportamental: permite que uma família de algoritmos seja intercambiável, escolhendo a estratégia adequada em tempo de execução.
+    Adapter - Estrutural: permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe para uma interface esperada.
+    Facade - Estrutural: fornece uma interface simplificada para um conjunto de interfaces em um subsistema, facilitando o uso de um sistema complexo.
